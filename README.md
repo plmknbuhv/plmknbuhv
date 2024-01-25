@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></a>
     
 
-깃허브 정보
+📰깃허브 정보📰
 --------
 ![plmknbuhv's GitHub stats](https://github-readme-stats.vercel.app/api?username=plmknbuhv&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plmknbuhv&layout=compact&theme=dark)
 </div>
