@@ -3,7 +3,7 @@
 <div align="center">
 
 
-# 안녕하세요 개발자를 꿈꾸고 공부하는 학생, 승호성입니다.
+# 안녕하세요 개발자를 꿈꾸고 공부하는 학생입니다.
 
 <img src="https://i.esdrop.com/d/f/wJn3gOhWFm/xqk7AVGHsK.png"/>
 
