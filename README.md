@@ -3,7 +3,7 @@
 <div align="center">
 
 
-# 안녕하세요
+# 안녕하세요 곧 개발자가 될 사람입니다.
 
 <img src="https://i.esdrop.com/d/f/wJn3gOhWFm/xqk7AVGHsK.png"/>
 
