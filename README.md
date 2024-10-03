@@ -28,7 +28,7 @@
 
 📰깃허브 정보📰
 --------
-![plmknbuhv's GitHub stats](https://github-readme-stats.vercel.app/api?username=plmknbuhv&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plmknbuhv&layout=compact&theme=dark)
+[![min0's GitHub stats](https://github-readme-stats.vercel.app/api?username=plmknbuhv&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plmknbuhv&layout=compact&theme=dark)
 </div>
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=087c3e&height=200&section=footer&text=감사합니다.👍&fontSize=81&animation=fadeIn&fontColor=DDDDDD)
