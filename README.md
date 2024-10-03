@@ -28,7 +28,7 @@
 
 📰깃허브 정보📰
 --------
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![plmknbuhv's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=087c3e&height=200&section=footer&text=감사합니다.👍&fontSize=81&animation=fadeIn&fontColor=DDDDDD)
