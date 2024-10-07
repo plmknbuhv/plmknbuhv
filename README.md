@@ -18,12 +18,9 @@
 
 🛠️사용하는 도구🛠️
 --------
-<img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/windows11-0078D4?style=for-the-badge&logo=windows&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white"/></a>
     
 
 📰깃허브 정보📰
